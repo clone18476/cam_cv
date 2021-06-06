@@ -4,36 +4,54 @@ _Software engineer (and musician) based in Louisiana, USA._
 
 ## 💬 About Me
 
- Motivated software engineer seeking to impliment a creative mentality and resolute work-ethic in the development of full-stack applications. I'm currently sharpening my skills in web development by creating full-stack applications in JavaScript and Ruby, and I'm seeking new opportunities in the software and technology industry to expand my learning and develop new technologies.
+ I'm a musician-turned-software engineer residing in New Orleans, Louisiana. I am experienced in building full stack JavaScript and Ruby applications, and I enjoy creating polished, responsive UI and clean, understandable code base. 
+ 
+My current and continuing focus is in creating intuitive applications for music performance, audio recording, and sound therapy. I'm seeking new opportunities in the software and technology industry to expand my learning and development. 
 
 [Email](mailto:cameroncousins18@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cameron-cousins-software-engineer/) / [GitHub](https://github.com/clone18476/) / [Resume](https://resume.creddle.io/resume/jk0czpkjwc1)
 ## 💻 Skills
 
-**Languages** 
-  - Bash, CSS, HTML5, JavaScript, Ruby, React, Sinatra
+**Languages and Frameworks** 
+  - Ruby / Rails
+  - React
+  - CSS / HTML5 / JavaScript
+  - Node.js
+  - Bash
  
-**Tools, Libraries, and Frameworks**
-  - API, DOM Interface, Git, JSON Data Format, JQuery, OAuth and OmniAuth, RegEx, SSH, Redux, SQLite3, Node.js, Ruby on Rails
-
+**Database Management** 
+ - SQL 
+ - SQLite3
+ - Postgres
+ 
+**Libraries and Utilities**
+  - JQuery / JSON
+  - OAuth / OmniAuth
+  - SSH
+  - Redux
+  - Sinatra
+  
+**Developer Tools**
+ - VS Code 
+ - Ubuntu / WSL OS
+ - Git / Github 
 
 ## 👩🏼‍🎓 👩🏼‍💻 Education and Experience
 
-**Flatiron online software engineering course** focused on full-stack web-dev<br>
-[Flatiron](https://www.flatironschool.com/) - Online _(June 2020 - Jun 2021)_ <br>
+ - **[Flatiron](https://www.flatironschool.com/) online software engineering course** _(June 2020 - Current)_
+     - Currently completing a 1000-hour course covering key aspects of front-end web development, back-end web development, databases, and data structures and algorithms. 
+    - Certification involves the completion of 100+ technical assessments, ranging from fundamental syntax exercises to building larger scale, full stack applications.  
+
 
 ##  🎼 Music Experience 
-
-_This section only accounts for work done post-career change._
-
-**Live Performance** _(May 2012 - Present)_ 
-  - Performed in a variety of musical settings including concert band, 
   
 **Freelance Recording** _(Mar 2018 - Present)_ 
-  - Doing Audio Engineer work in the southern Louisiana areas including recording, engineering, and production
-  
-**Organizing Music Concerts** _(Fall 2014 - Present)_ 
-  - Finding talent, booking, and promoting musical acts in the Baton Rouge, Lafayette, New Orleans, and surrounding areas.
-  
-**Live Sound** _(Fall 2016 - December 2019)_ 
+  - Doing Audio Engineer work in the southern Louisiana area including recording, engineering, and production for artists in a variety of genres and styles
+ 
+**Organizing Live Events** _(Fall 2014 - Present)_ 
+  - Finding talent, booking shows, and creating promotional campaigns with a high response rate.
   - Managed all stages of the live sound and lighting process.
   - Assess the venue in advance and determine what type of equipment to use.
+ 
+**Live Performance** _(May 2012 - Present)_ 
+  - Performed in a variety of musical settings including  orchestras, chamber ensembles, marching bands, and gigging performances in a variety of settings.
+
