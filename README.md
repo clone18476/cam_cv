@@ -6,8 +6,7 @@ _Software engineer (and musician) based in Louisiana, USA._
 
  Motivated software engineer seeking to impliment a creative mentality and resolute work-ethic in the development of full-stack applications. I'm currently sharpening my skills in web development by creating full-stack applications in JavaScript and Ruby, and I'm seeking new opportunities in the software and technology industry to expand my learning and develop new technologies.
 
-[Email](mailto:cameroncousins18@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cameron-cousins-software-engineer/) / [GitHub](https://github.com/clone18476/) 
-
+[Email](mailto:cameroncousins18@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cameron-cousins-software-engineer/) / [GitHub](https://github.com/clone18476/) / [Resume](https://resume.creddle.io/resume/jk0czpkjwc1)
 ## 💻 Skills
 
 **Languages** 
