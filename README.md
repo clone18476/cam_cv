@@ -21,13 +21,6 @@ _Software engineer (and musician) based in Louisiana, USA._
 **Flatiron online software engineering course** focused on full-stack web-dev<br>
 [Flatiron](https://www.flatironschool.com/) - Online _(June 2020 - Jun 2021)_ <br>
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ 
-No-code platform that enables professionals to build interactive applications.
-  - Extending and maintaining a company-wide design system
-  - Building a new frontend component library
-  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
-
-
 ##  🎼 Music Experience 
 
 _This section only accounts for work done post-career change._
