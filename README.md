@@ -8,7 +8,7 @@ _Software engineer (and musician) based in Louisiana, USA._
  
 My current and continuing focus is in creating intuitive applications for music performance, audio recording, and sound therapy. I'm seeking new opportunities in the software and technology industry to expand my learning and development. 
 
-[Email](mailto:cameroncousins18@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cameron-cousins-software-engineer/) / [GitHub](https://github.com/clone18476/) / [Resume](https://resume.creddle.io/resume/jk0czpkjwc1)
+[Email](mailto:cameroncousinscoding@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cameron-cousins-software-engineer/) / [GitHub](https://github.com/clone18476/) / [Resume](https://resume.creddle.io/resume/jk0czpkjwc1)
 ## 💻 Skills
 
 **Languages and Frameworks** 
