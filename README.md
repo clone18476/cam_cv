@@ -54,7 +54,7 @@ My current and continuing focus is in creating intuitive applications for music 
   - Performed in a variety of live and studio musical settings including orchestras, chamber ensembles, marching bands, and gigging performances of many genres.
   - Worked as an audio engineer doing recording, engineering, and production jobs for artists in a variety of genres and styles. 
  
-**Organizing Live Events** _(Fall 2014 - Present)_ 
+**Live Event Coordinator** _(Fall 2014 - Present)_ 
   - Found talent, booked shows, and created promotional campaigns for events with a high response rate.
   - Designed well-organized and executable stage plots unique to each event and venue's needs.
   - Routed cables of CAT-5 audio and 5-pin MIDI data formats to respond to the clients/events needs in real-time.
