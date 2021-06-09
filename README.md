@@ -35,7 +35,7 @@ My current and continuing focus is in creating intuitive applications for music 
  - Ubuntu / WSL OS
  - Git / Github 
 
-## 👩🏼‍🎓 👩🏼‍💻 Education and Experience
+## 👩🏼‍🎓 👩🏼‍💻 Education / Experience
 
 **[Flatiron](https://www.flatironschool.com/) online software engineering course** _(June 2020 - Current)_
 - Currently completing a 1000-hour course covering key aspects of front-end web development, back-end web development, databases, and data structures and algorithms. 
@@ -49,7 +49,7 @@ My current and continuing focus is in creating intuitive applications for music 
 **Sinatra Project - [Manga Library](https://github.com/clone18476/manga-library-app)**	
 - This application stores user data, allows users to edit and delete their data, and allows all users using this server to view any data that has been stored by any user within the global database.
 
-##  🎼 Music Experience 
+##  🎼 Personal Experience 
   
 **Freelance Musician/Producer** _(Fall 2008 - Present)_ 
   - Performed in a variety of live and studio musical settings including orchestras, chamber ensembles, marching bands, and gigging performances of many genres.
